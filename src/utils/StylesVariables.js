@@ -1,0 +1,1 @@
+export const primaryColor = "rgb(6, 121, 193)"
